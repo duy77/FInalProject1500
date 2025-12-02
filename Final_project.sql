@@ -1,0 +1,1 @@
+SELECT * FROM Final_project_1500.Payment;
